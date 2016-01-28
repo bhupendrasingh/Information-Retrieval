@@ -1,1 +1,1 @@
-# Information-Retreival
+Experiments with information retrieval concepts of web search.
